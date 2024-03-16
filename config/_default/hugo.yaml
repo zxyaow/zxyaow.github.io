@@ -1,0 +1,8 @@
+baseURL: https://zxyaow.github.io
+languageCode: en-us
+theme: stack
+paginate: 4
+copyright: ZIYAO
+
+DefaultContentLanguage: zh-cn
+hasCJKLanguage: true

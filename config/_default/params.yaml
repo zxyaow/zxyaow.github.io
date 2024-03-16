@@ -1,0 +1,44 @@
+mainSections: ["articles"]
+
+featuredImageField: true
+rssFullContent: true
+
+favicon:
+
+footer:
+  since: 2024
+  customText: ZIYAO-Website
+
+dateFormat:
+  published: 2006-01-02 CST
+  lastUpdated: 2006-01-02 CST
+
+sidebar:
+  emoji:
+  subtitle: 在知识的海洋中遨游
+  avatar:
+    enabled: true
+    local: true
+    src: img/avatar.jpg
+
+article:
+  math: false
+  toc: true
+  readingTime: true
+  license:
+    enabled: false
+
+comments:
+  enabled: false
+
+widgets:
+  homepage:
+    - type: categories
+    - type: tag-cloud
+  page:
+    - type: toc
+
+colorScheme:
+  toggle: true
+  default: auto
+
