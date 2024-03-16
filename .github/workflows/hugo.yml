@@ -29,9 +29,9 @@ defaults:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    runs-on: "ubuntu-latest"
     env:
-      HUGO_VERSION: latest
+      HUGO_VERSION: "latest"
     steps:
       - name: Install Hugo CLI
         run: |
