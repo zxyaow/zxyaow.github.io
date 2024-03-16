@@ -2,7 +2,7 @@
 title: 归档|Archive
 date: 2024-01-01
 layout: "archives"
-url: archives/
+url: /archives/
 menu:
   main:
     name: 归档

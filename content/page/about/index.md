@@ -24,3 +24,7 @@ comments: false
 \
 就这样，没了
 
+
+{{< details "测试隐藏" >}}
+!!被发现了!!
+{{< /details >}}
